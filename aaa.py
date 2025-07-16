@@ -1,1 +1,1 @@
-print("python好簡單")
+print("python----aaaa")
